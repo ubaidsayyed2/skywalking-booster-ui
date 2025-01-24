@@ -2,7 +2,7 @@
 
 <img src="http://skywalking.apache.org/assets/logo.svg" alt="Sky Walking logo" height="90px" align="right" />
 
-[Apache SkyWalking](https://github.com/apache/skywalking) Booster UI
+[Apache SkyWalking](https://github.com/apache/skywalking) Booster UI.
 
 ![NPM BUILD](https://github.com/apache/skywalking-booster-ui/workflows/Node%20CI/badge.svg)
 
